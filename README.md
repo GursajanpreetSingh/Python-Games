@@ -4,15 +4,17 @@ A collection of Python-based games built while practicing programming fundamenta
 
 ## 🕹️ Games
 
-| Game                        | Description                                                                      | Concepts                                                                  |
-| --------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 🃏 [Blackjack](./Blackjack) | A command-line Blackjack game played against the computer                        | Functions, Lists, Loops, Random, Conditional Logic                        |
-| 🎯 [Hangman](./Hangman)     | A command-line word-guessing game where the player tries to reveal a hidden word | Functions, Lists, Loops, Strings, Random, Conditional Logic, Modular Code |
+| Game                        | Description                                                                      | Concepts                                                                   |
+| --------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 🃏 [Blackjack](./Blackjack) | A command-line Blackjack game played against the computer                        | Functions, Lists, Loops, Random, Conditional Logic                         |
+| 🎯 [Hangman](./Hangman)     | A command-line word-guessing game where the player tries to reveal a hidden word | Functions, Lists, Loops, Strings, Random, Conditional Logic, Modular Code  |
+| 🧠 [Quiz](./Quiz)           | A command-line True/False quiz with multiple questions and score tracking        | Classes, Objects, Functions, Lists, Loops, Conditional Logic, Modular Code |
 
 ## 🛠️ Concepts Practiced
 
 * Python fundamentals
 * Functions
+* Classes and Objects
 * Lists and data structures
 * Loops
 * Conditional statements
